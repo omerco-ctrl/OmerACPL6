@@ -1,7 +1,7 @@
-## ACCheckoutSDK v1.0.0 – November 2025
+## ACCheckoutSDK v1.4.2 – November 2025
 
-### 🚀 New Features
-- Added 3DS2 secure checkout flow for better authentication support.
-- Introduced sandbox test card validation.
-- Added `ACCheckoutManager.shared.version` for runtime version tracking.
-
+### 🚀 iOS Payment Links SDK
+- Exposed public headers to support Objective-C integration.
+- Renamed ACCheckoutPurchaseDelegate to ACPaymentLinksDelegate.
+- Renamed ACCheckoutSDK namespace to ACPaymentLinks.
+- Updated and modified the ACPaymentLinksDelegate protocol.
