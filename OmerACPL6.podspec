@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'OmerACPL6'
-  s.version          = "5.0.5"
+  s.version          = "5.0.6"
   s.summary          = 'Appcharge Checkout SDK'
   s.description      = <<-DESC
 A lightweight static binary SDK for Appcharge Checkout, providing
