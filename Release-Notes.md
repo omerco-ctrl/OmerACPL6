@@ -1,4 +1,4 @@
-## ACCheckoutSDK v5.0.7 – November 2025
+## ACCheckoutSDK v5.0.8 – November 2025
 
 ### 🚀 iOS Payment Links SDK
 - Exposed public headers to support Objective-C integration.
